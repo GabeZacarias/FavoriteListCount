@@ -16,8 +16,4 @@ Ener how many people liked this flavor (i.e): 9
 
 OUTPUT
 
-Favorite icecream flavor
-
-Choclate    **********
-Vanilla     ******
-Strawberry  *********
+![alt text](https://i.ibb.co/br942XK/04-19-19.png)
