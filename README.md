@@ -8,7 +8,7 @@ Enter How many people liked this flavor (i.e): 10
 Enter next flavor title (i.e): Vanilla
 Enter how many people liked this flavor (i.e): 6
 Enter next flavor title (i.e): Strawberry
-Ener how many people liked this flavor (i.e): 9
+Enter how many people liked this flavor (i.e): 9
 
 (Program checks if quanitiy is an integer)
 
